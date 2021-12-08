@@ -1,0 +1,3 @@
+steps:
+  - label: "Example upload"
+    command: echo "This command is in the repo!"

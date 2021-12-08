@@ -1,0 +1,3 @@
+steps:
+  - label: "Upload by a yaml file from a yaml file in a repo"
+    command: echo "This command is uploaded by another file in the repo!"

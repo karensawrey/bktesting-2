@@ -8,3 +8,4 @@ Experimenting with Buildkite agent
 - New line on a new branch
 - Another line for "status changes"
 - New branch works
+- checking similar settings

@@ -9,3 +9,4 @@ Experimenting with Buildkite agent
 - Another line for "status changes"
 - New branch works
 - checking similar settings
+- Testing back and forth PR statuses & builds

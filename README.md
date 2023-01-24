@@ -5,3 +5,5 @@ Experimenting with Buildkite agent
 - Another line to trigger another PR.
 - Yet another line to trigger another PR.
 - Another line to trigger another PR after removing the "skip" part
+- New line on a new branch
+- Another line for "status changes"

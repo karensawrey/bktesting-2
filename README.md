@@ -13,3 +13,4 @@ Experimenting with Buildkite agent
 - Documented updates
 - plus commit
 - yet another commit
+- does the change trigger a build

@@ -14,3 +14,4 @@ Experimenting with Buildkite agent
 - plus commit
 - yet another commit
 - added two lines to test the status
+- added a line for a PR commit

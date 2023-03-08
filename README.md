@@ -13,5 +13,3 @@ Experimenting with Buildkite agent
 - Documented updates
 - plus commit
 - yet another commit
-- does the change trigger a build
-- added a label and a command to test PR status

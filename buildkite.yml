@@ -3,6 +3,9 @@ steps:
     command: echo "This command is in the repo!"
   - label: ":pipeline: Pipeline upload"
     command: buildkite-agent pipeline upload .buildkite/stage-2.yml
+  - label: "more testing"
+    command: echo "what about the status?"
   - label: ":pipeline: WH test"
     command: echo "Does the status change?"
+
     

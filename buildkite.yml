@@ -6,4 +6,6 @@ steps:
   - label: ":pipeline: WH test"
     command: echo "Does the status change?"
   - label: ":pipeline: WH test"
-    command: echo "What about now?"    
+    command: echo "What about now?"
+  - label: ":pipeline: WH test"
+    command: echo "What about one more time?" 

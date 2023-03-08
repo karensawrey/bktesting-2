@@ -5,4 +5,5 @@ steps:
     command: buildkite-agent pipeline upload .buildkite/stage-2.yml
   - label: ":pipeline: WH test"
     command: echo "Does the status change?"
-    
+  - label: ":pipeline: WH test"
+    command: echo "What about now?"    

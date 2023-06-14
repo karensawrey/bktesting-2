@@ -16,3 +16,4 @@ Experimenting with Buildkite agent
 - added two lines to test the status
 - testing webhooks
 - testing outsider commit
+- let's try another build when I'm on a read-only team

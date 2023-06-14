@@ -17,3 +17,4 @@ Experimenting with Buildkite agent
 - testing webhooks
 - testing outsider commit
 - let's try another build when I'm on a read-only team
+- commit with a valid agent in pool

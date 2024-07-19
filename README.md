@@ -7,6 +7,7 @@ Experimenting with Buildkite agent
 - Another line to trigger another PR after removing the "skip" part
 - New line on a new branch
 - Another line for "status changes"
+- Another PR source
 - New branch works
 - checking similar settings
 - Testing back and forth PR statuses & builds
